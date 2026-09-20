@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0932-beautiful-array](https://github.com/5avis/Leethub/tree/master/0932-beautiful-array) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/5avis/Leethub/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/5avis/Leethub/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
