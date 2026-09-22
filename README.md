@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/5avis/Leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0932-beautiful-array](https://github.com/5avis/Leethub/tree/master/0932-beautiful-array) |
 | [3524-find-x-value-of-array-i](https://github.com/5avis/Leethub/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/5avis/Leethub/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/5avis/Leethub/tree/master/0932-beautiful-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/5avis/Leethub/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/5avis/Leethub/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/5avis/Leethub/tree/master/3525-find-x-value-of-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/5avis/Leethub/tree/master/0493-reverse-pairs) |
+| [3525-find-x-value-of-array-ii](https://github.com/5avis/Leethub/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
