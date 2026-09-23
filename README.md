@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/5avis/Leethub/tree/master/0493-reverse-pairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/5avis/Leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0932-beautiful-array](https://github.com/5avis/Leethub/tree/master/0932-beautiful-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/5avis/Leethub/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/5avis/Leethub/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/5avis/Leethub/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/5avis/Leethub/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/5avis/Leethub/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Ternary Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/5avis/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tree
 |  |
 | ------- |
@@ -91,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/5avis/Leethub/tree/master/3524-find-x-value-of-array-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
