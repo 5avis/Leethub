@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/5avis/Leethub/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/5avis/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tree
 |  |
@@ -104,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
