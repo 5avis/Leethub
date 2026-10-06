@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/5avis/Leethub/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/5avis/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/5avis/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0493-reverse-pairs](https://github.com/5avis/Leethub/tree/master/0493-reverse-pairs) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/5avis/Leethub/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/5avis/Leethub/tree/master/0141-linked-list-cycle) |
 | [0633-sum-of-square-numbers](https://github.com/5avis/Leethub/tree/master/0633-sum-of-square-numbers) |
 ## Geometry
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/5avis/Leethub/tree/master/0016-3sum-closest) |
 | [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
