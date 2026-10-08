@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/5avis/Leethub/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/5avis/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/5avis/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0219-contains-duplicate-ii](https://github.com/5avis/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/5avis/Leethub/tree/master/0493-reverse-pairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/5avis/Leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0932-beautiful-array](https://github.com/5avis/Leethub/tree/master/0932-beautiful-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/5avis/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/5avis/Leethub/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/5avis/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/5avis/Leethub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/5avis/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
