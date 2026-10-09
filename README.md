@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/5avis/Leethub/tree/master/0301-remove-invalid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/5avis/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/5avis/Leethub/tree/master/0481-magical-string) |
 | [1021-remove-outermost-parentheses](https://github.com/5avis/Leethub/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/5avis/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/5avis/Leethub/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/5avis/Leethub/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/5avis/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/5avis/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/5avis/Leethub/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/5avis/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/5avis/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
