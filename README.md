@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/5avis/Leethub/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/5avis/Leethub/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/5avis/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/5avis/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/5avis/Leethub/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/5avis/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/5avis/Leethub/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/5avis/Leethub/tree/master/0219-contains-duplicate-ii) |
