@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/5avis/Leethub/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/5avis/Leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/5avis/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/5avis/Leethub/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/5avis/Leethub/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Ternary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/5avis/Leethub/tree/master/1392-longest-happy-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/5avis/Leethub/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/5avis/Leethub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/5avis/Leethub/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/5avis/Leethub/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -175,22 +177,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/5avis/Leethub/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/5avis/Leethub/tree/master/2223-sum-of-scores-of-built-strings) |
 ## String Matching
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/5avis/Leethub/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/5avis/Leethub/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/5avis/Leethub/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/5avis/Leethub/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/5avis/Leethub/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/5avis/Leethub/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/5avis/Leethub/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/5avis/Leethub/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -199,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/5avis/Leethub/tree/master/2778-sum-of-squares-of-special-elements) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/5avis/Leethub/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
