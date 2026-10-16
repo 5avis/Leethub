@@ -74,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/5avis/Leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/5avis/Leethub/tree/master/1392-longest-happy-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/5avis/Leethub/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/5avis/Leethub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/5avis/Leethub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/5avis/Leethub/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/5avis/Leethub/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/5avis/Leethub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/5avis/Leethub/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -228,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/5avis/Leethub/tree/master/0021-merge-two-sorted-lists) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/5avis/Leethub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
