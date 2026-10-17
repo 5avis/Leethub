@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/5avis/Leethub/tree/master/0301-remove-invalid-parentheses) |
+| [0394-decode-string](https://github.com/5avis/Leethub/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/5avis/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/5avis/Leethub/tree/master/0481-magical-string) |
 | [1021-remove-outermost-parentheses](https://github.com/5avis/Leethub/tree/master/1021-remove-outermost-parentheses) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/5avis/Leethub/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/5avis/Leethub/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/5avis/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/5avis/Leethub/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -233,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/5avis/Leethub/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/5avis/Leethub/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/5avis/Leethub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
